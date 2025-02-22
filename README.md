@@ -31,18 +31,7 @@ Use **XAMPP** or **WAMP** to host the project locally.
 2. Create a new database named `committees`.
 3. Import the provided `committees.sql` file from the repository.
 
-### 4. Configure Environment Variables
-Edit the `config.php` file:
-```php
-<?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "committees";
-?>
-```
-
-### 5. Run the Application
+### 4. Run the Application
 Access the application in your browser at:
 ```
 http://localhost/clubconnect/
