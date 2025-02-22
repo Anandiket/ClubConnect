@@ -16,7 +16,7 @@
 ## Getting Started
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/clubconnect.git
+git clone https://github.com/Anandiket/clubconnect.git
 cd clubconnect
 ```
 
@@ -63,8 +63,3 @@ Ensure you have the following installed:
 ## Future Enhancements
 - **Event Registration System** to allow students to RSVP for events.
 - **Email Notifications** for upcoming events.
-
-
-## Contact
-For queries or collaborations, reach out via [your-email@example.com](mailto:your-email@example.com).
-
